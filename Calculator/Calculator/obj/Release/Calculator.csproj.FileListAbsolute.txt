@@ -1,0 +1,55 @@
+F:\0PersonalProjects\Calculator\Calculator\bin\Release\Calculator.exe.config
+F:\0PersonalProjects\Calculator\Calculator\bin\Release\Calculator.exe
+F:\0PersonalProjects\Calculator\Calculator\bin\Release\Calculator.pdb
+F:\0PersonalProjects\Calculator\Calculator\bin\Release\org.matheval.dll
+F:\0PersonalProjects\Calculator\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+F:\0PersonalProjects\Calculator\Calculator\obj\Release\Calculator.Calculator.resources
+F:\0PersonalProjects\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+F:\0PersonalProjects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+F:\0PersonalProjects\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+F:\0PersonalProjects\Calculator\Calculator\obj\Release\Calculator.csproj.CopyComplete
+F:\0PersonalProjects\Calculator\Calculator\obj\Release\Calculator.exe
+F:\0PersonalProjects\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\org.matheval.dll
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.Calculator.resources
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.CopyComplete
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\stud\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.Scientific.resources
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\org.matheval.dll
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.Calculator.resources
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.Scientific.resources
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.CopyComplete
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\augsta1\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\org.matheval.dll
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.Calculator.resources
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.Scientific.resources
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.csproj.CopyComplete
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\Calculator.exe.manifest
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\bin\Release\Calculator.application
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.exe.manifest
+C:\Users\Augustas Stankūnas\OneDrive - Kaunas University of Technology\Calculator\Calculator\obj\Release\Calculator.application

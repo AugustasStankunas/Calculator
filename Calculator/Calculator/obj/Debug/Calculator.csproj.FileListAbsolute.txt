@@ -1,0 +1,12 @@
+F:\0PersonalProjects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\0PersonalProjects\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\0PersonalProjects\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\0PersonalProjects\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+F:\0PersonalProjects\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+F:\0PersonalProjects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\0PersonalProjects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\0PersonalProjects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\0PersonalProjects\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\0PersonalProjects\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\0PersonalProjects\Calculator\Calculator\bin\Debug\org.matheval.dll
+F:\0PersonalProjects\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
